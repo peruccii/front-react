@@ -1,0 +1,11 @@
+.circle {
+    position: absolute;
+    height: 1300px;
+    width: 1300px;
+    top: -70%;
+    left: -35%;
+    z-index: 3;
+    background-image: linear-gradient(to top left, #694C08 0%, #078d10 100%);
+    border-radius: 50%;
+    box-shadow: 5px 10px 15px 2px rgb(0 0 0 /27%);
+}
